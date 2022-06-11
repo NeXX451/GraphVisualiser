@@ -14,8 +14,10 @@ The algorithms included are: Bellman Ford, BFS, DFS, Dijkstra, Kruskal, Prim's A
 
 
 
-##  Flags for g++   
-set(GCC_COVERAGE_COMPILE_FLAGS "-Wall -pedantic -Wno-long-long -O2 -Werror")  
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${GCC_COVERAGE_COMPILE_FLAGS}" )  
+##  Flags for g++  and Cmake 
+```bash
+set(GCC_COVERAGE_COMPILE_FLAGS "-Wall -pedantic -Wno-long-long -O2 -Werror")   set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${GCC_COVERAGE_COMPILE_FLAGS}" )  
+```
+
 
 
