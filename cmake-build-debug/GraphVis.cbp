@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GraphVis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.8VY1WkzRht/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.8VY1WkzRht/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphVis">
+				<Option output="/tmp/tmp.8VY1WkzRht/cmake-build-debug/GraphVis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.8VY1WkzRht/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/aarch64-unknown-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphVis"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphVis/fast">
+				<Option output="/tmp/tmp.8VY1WkzRht/cmake-build-debug/GraphVis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.8VY1WkzRht/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/aarch64-unknown-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/aarch64-unknown-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphVis/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.8VY1WkzRht/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.8VY1WkzRht/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/accessories/Queue.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/accessories/Queue.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/accessories/Set.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/accessories/Set.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/BellmanFord.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/BellmanFord.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/BreadthFirstSearch.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/BreadthFirstSearch.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/DepthFirstSearch.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/DepthFirstSearch.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Dijkstra.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Dijkstra.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Kruskal.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Kruskal.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Prim.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/Prim.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/SingleSourceShortestPathInDAG.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/SingleSourceShortestPathInDAG.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/StronglyConnectedComponents.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/StronglyConnectedComponents.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/TopologicalSort.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/algorithms/TopologicalSort.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CEdge.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CEdge.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CGraph.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CGraph.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CNode.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/graph/CNode.h">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/main.cpp">
+			<Option target="GraphVis"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.8VY1WkzRht/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
